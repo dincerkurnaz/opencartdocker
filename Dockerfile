@@ -1,3 +1,4 @@
+# otomatik olarak calışacak şekilde olacak
 FROM php:5.6-apache
 MAINTAINER dinçer<dincer@dincersalihkurnaz.com>
 
