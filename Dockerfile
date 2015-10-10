@@ -1,5 +1,5 @@
 FROM php:5.6-apache
-MAINTAINER kev<noreply@datageek.info>
+MAINTAINER dinçer<dincer@dincersalihkurnaz.com>
 
 RUN a2enmod rewrite
 
